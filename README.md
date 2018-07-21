@@ -1,5 +1,9 @@
 # FreeCodeCamp Algorithms
 
-These are my code solutions for freeCodeCamp's Intermediate and Advanced Algorithm Scripting challenges.
+These are my code solutions for freeCodeCamp's Javascript Algorithms And Data Structures Certification.
 
-Not all algorithms are here, I'm still working on uploading all. I will probably wait until the Beta becomes live.
+This includes solutions for the following sections:
+
+* Basic Algorithm Scripting
+* Intermediate Algorithm Scripting
+* JavaScript Algorithms and Data Structure Projects

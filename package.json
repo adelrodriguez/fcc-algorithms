@@ -1,0 +1,24 @@
+{
+  "name": "fcc-algorithms",
+  "version": "1.0.0",
+  "description": "Solutions to FreeCodeCamp's Javascript Algorithms And Data Structures Certification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelrodriguez/fcc-algorithms.git"
+  },
+  "author": "Adel Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelrodriguez/fcc-algorithms/issues"
+  },
+  "homepage": "https://github.com/adelrodriguez/fcc-algorithms#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
