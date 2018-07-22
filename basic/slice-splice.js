@@ -3,7 +3,7 @@
 function frankenSplice(arr1, arr2, n) {
   const copy = arr2.slice();
 
-  arr1.forEach((e, index) => copy.splice(n + index, 0, e));
+  copy.splice(n, 0, ...arr1);
 
   return copy;
 }
