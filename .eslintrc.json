@@ -1,6 +1,14 @@
 {
-    "extends": "airbnb-base",
-    "parserOptions": {
-        "sourceType": "script"
-    }
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "sourceType": "script"
+  },
+  "rules": {
+    "no-plusplus": [
+      "error",
+      {
+        "allowForLoopAfterthoughts": true
+      }
+    ]
+  }
 }
